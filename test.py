@@ -88,6 +88,6 @@ font_sizes = [
     [16, 10, 12, 12],
     [16, 10, 12, 12],
 ]
-file_name = "excel_table_with_text_and_font.xlsx"
+file_name = "excel_design.xlsx"
 
 create_excel_table(box_sizes, box_colors, text_values, font_sizes, file_name)
